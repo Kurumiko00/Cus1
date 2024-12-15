@@ -108,7 +108,7 @@ const About = () => {
           <img
             alt="team"
             className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-              src="/images/c1.jpg"
+              src="/images/p3.jpg"
           />
           <div className="flex-grow sm:pl-8">
             <h2 className="title-font font-medium text-lg text-white">
@@ -121,7 +121,7 @@ const About = () => {
             <span className="inline-flex">
                      
             <a 
-       href="#"
+       href="https://www.linkedin.com/in/nantitha-chaiyong-b1bb62341/"
        target="_blank"
        rel="noopener noreferrer"
        className=" text-white">
@@ -152,7 +152,7 @@ const About = () => {
           <img
             alt="team"
             className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-              src="/images/c1.jpg"
+              src="/images/p4.jpg"
           />
           <div className="flex-grow sm:pl-8">
             <h2 className="title-font font-medium text-lg text-white">
@@ -281,7 +281,7 @@ const About = () => {
           <img
             alt="team"
             className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-              src="/images/c1.jpg"
+              src="/images/p7.jpg"
           />
           <div className="flex-grow sm:pl-8">
             <h2 className="title-font font-medium text-lg text-white">
@@ -293,8 +293,14 @@ const About = () => {
             </p>
             <span className="inline-flex">
                       
-      <a className=" text-white">
+               
+            <a 
+       href="https://www.linkedin.com/in/sarawut-sanjaroey-8b4bb3340/"
+       target="_blank"
+       rel="noopener noreferrer"
+       className=" text-white">
         <svg
+         href="https://your-link.com"
           fill="currentColor"
           stroke="currentColor"
           strokeLinecap="round"
@@ -406,7 +412,7 @@ const About = () => {
           <img
             alt="team"
             className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-              src="/images/c1.jpg"
+              src="/images/p10.jpg"
           />
           <div className="flex-grow sm:pl-8">
             <h2 className="title-font font-medium text-lg text-white">
@@ -418,8 +424,13 @@ const About = () => {
             </p>
             <span className="inline-flex">
             
-      <a className=" text-white">
+            <a 
+       href="https://www.linkedin.com/in/thanathip-seeyo-877bb3340/"
+       target="_blank"
+       rel="noopener noreferrer"
+       className=" text-white">
         <svg
+         href="https://your-link.com"
           fill="currentColor"
           stroke="currentColor"
           strokeLinecap="round"
