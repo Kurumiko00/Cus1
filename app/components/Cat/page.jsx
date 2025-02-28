@@ -4,12 +4,13 @@ function Page() {
   return (
     <div>
       <section className="text-gray-600 body-font">
-  <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-    <img
-      className="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
-      alt="hero"
-      src="/images/ku1.jpg"
-    />
+      <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
+          <img
+            className="lg:w-3/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded-full border-4 border-gray-500 transition-all hover:scale-105"
+            alt="hero"
+            src="/images/ku1.jpg"
+          />
+
     <div className="text-center lg:w-2/3 w-full border-2 border-white-300 bg-white-50 p-6 rounded-lg m-5">
   <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-yellow-500 text-left">
     1. Malware หรือ Malicious software
