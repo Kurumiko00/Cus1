@@ -23,22 +23,30 @@ function Navbar() {
               <path d="M8 4L10.5 11H5.5L8 4Z" />
               <path d="M8 5L9 10H7L8 5Z" />
             </svg>
-            <span className="ml-3 text-xl">CUSTODIAN</span>
+            <span className="ml-3 text-xl">
+            <Link href="/" className="mr-5 hover:text-gray-300">
+            CUSTODIAN
+            </Link></span>
           </a>
 
           <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-600 flex flex-wrap items-center text-base justify-center">
             <Link href="/" className="mr-5 hover:text-gray-300">
               Home
             </Link>
+            <Link href="/components/Cat" className="mr-5 hover:text-gray-300">
+            Cyber Threat
+            </Link> 
             <Link href="/components/Project" className="mr-5 hover:text-gray-300">
               Project
             </Link>
             <Link href="/components/Team" className="mr-5 hover:text-gray-300">
               Team
             </Link>
+           
             <Link href="/components/Contact" className="mr-5 hover:text-gray-300">
               Contact
             </Link>
+           
           </nav>
         </div>
       </header>

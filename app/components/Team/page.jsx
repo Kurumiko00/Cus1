@@ -7,7 +7,7 @@ const About = () => {
       <section className="text-white body-font">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-20">
-      <h1 className="text-2xl font-medium title-font mb-4 text-white tracking-widest">
+      <h1 className="text-2xl font-medium title-font mb-4 text-white tracking-widest text-yellow-500 font-bold text-3xl">
         ทีมงานบริษัท CUSTODIAN
       </h1>
       <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
@@ -77,7 +77,7 @@ const About = () => {
             <span className="inline-flex">
                       
             <a 
-       href="https://www.linkedin.com/in/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%AD%E0%B8%A1-9b0765340/"
+       href="https://www.linkedin.com/in/apisit-srinom-9b0765340/"
        target="_blank"
        rel="noopener noreferrer"
        className=" text-white">
